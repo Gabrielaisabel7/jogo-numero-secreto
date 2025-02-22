@@ -1,10 +1,4 @@
-//agora estou mexendo para selecionar o titulo da pagina do html (h1) com comandos do JS.
-//let title = document.querySelector('h1');
-// o title.innerHTML (como já diz a tradução: 'dentro do HTML') é para inserir um texto no h1 q foi o escolhido.
-//title.innerHTML = 'Jogo do número secreto!';
-//let paragrafo = document.querySelector('p');
-//paragrafo.innerHTML = 'Digite um  número entre 1 e 18:';
-//usando a função para fazer de forma que seja mais prático, 
+
 let listaNumSorteados = []
 let numeroLimite = 10;
 let numeroSecreto = criarNumeroAleatorio();
