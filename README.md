@@ -1,11 +1,42 @@
-# 🎯 Sobre o Projeto  
-O **Jogo do Número Secreto** é uma aplicação interativa desenvolvida em JavaScript, onde o jogador tenta adivinhar um número gerado aleatoriamente dentro de um intervalo definido. A cada tentativa, o jogo fornece pistas se o número secreto é maior ou menor, até que o jogador acerte. O número sorteado não se repete até que todos os valores possíveis sejam escolhidos, garantindo uma experiência dinâmica.
+# 🎯 Jogo do Número Secreto
 
-## 🚀 Tecnologias Utilizadas  
-- **HTML**: Estrutura base da página, contendo os elementos de texto, botões e campo de entrada para o usuário.  
-- **CSS**: Estilização da interface para tornar o jogo visualmente agradável.  
-- **JavaScript**: Lógica principal do jogo, responsável por:  
-  - Gerar números aleatórios sem repetição.  
-  - Atualizar dinamicamente os textos e interações do usuário.  
-  - Controlar o número de tentativas.  
-  - Implementar a reinicialização do jogo ao final de cada rodada.  
+Aplicação web desenvolvida em JavaScript que desafia o usuário a descobrir um número secreto gerado aleatoriamente. Durante o jogo, são fornecidas dicas indicando se o valor correto é maior ou menor que a tentativa realizada, tornando a experiência interativa.
+
+Para aumentar a variedade das partidas, o sistema evita repetir números sorteados até que todos os valores disponíveis tenham sido utilizados.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5** – Estrutura da aplicação.
+- **CSS3** – Estilização da interface.
+- **JavaScript** – Implementação da lógica do jogo, incluindo:
+  - Geração de números aleatórios sem repetição;
+  - Validação das tentativas do usuário;
+  - Contagem de tentativas;
+  - Atualização dinâmica da interface;
+  - Reinicialização automática ao final de cada partida.
+
+## ✨ Funcionalidades
+
+- 🎲 Geração aleatória de números.
+- 🔄 Evita repetição de números sorteados.
+- 💡 Dicas indicando se o número secreto é maior ou menor.
+- 📊 Contagem de tentativas até o acerto.
+- ▶️ Reinício do jogo para novas partidas.
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
+
+- Manipulação do DOM;
+- Estruturas condicionais e de repetição;
+- Funções em JavaScript;
+- Arrays e lógica para controle de valores únicos;
+- Interação entre HTML, CSS e JavaScript.
+
+## 📷 Demonstração
+
+*Adicione aqui um print ou GIF da aplicação.*
+
+## 👩‍💻 Autora
+
+**Gabriela Isabel**
