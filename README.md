@@ -1,10 +1,10 @@
-# 🎯 Jogo do Número Secreto
+# Jogo do Número Secreto
 
 Aplicação web desenvolvida em JavaScript que desafia o usuário a descobrir um número secreto gerado aleatoriamente. Durante o jogo, são fornecidas dicas indicando se o valor correto é maior ou menor que a tentativa realizada, tornando a experiência interativa.
 
 Para aumentar a variedade das partidas, o sistema evita repetir números sorteados até que todos os valores disponíveis tenham sido utilizados.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** – Estrutura da aplicação.
 - **CSS3** – Estilização da interface.
@@ -15,15 +15,15 @@ Para aumentar a variedade das partidas, o sistema evita repetir números sortead
   - Atualização dinâmica da interface;
   - Reinicialização automática ao final de cada partida.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- 🎲 Geração aleatória de números.
-- 🔄 Evita repetição de números sorteados.
-- 💡 Dicas indicando se o número secreto é maior ou menor.
-- 📊 Contagem de tentativas até o acerto.
-- ▶️ Reinício do jogo para novas partidas.
+- Geração aleatória de números.
+- Evita repetição de números sorteados.
+- Dicas indicando se o número secreto é maior ou menor.
+- Contagem de tentativas até o acerto.
+- Reinício do jogo para novas partidas.
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
